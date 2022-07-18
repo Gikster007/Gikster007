@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gikster007
 - 👀 I’m interested in Game Development and Web Development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C++ and Unreal Engine
 - 💞️ I’m looking to collaborate on projects that will help me learn more about Web/Game Dev
 - 📫 How to reach me: Discord: Gikster007#3867 Instagram: @gikster007                      
 
